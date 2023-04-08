@@ -1,5 +1,7 @@
 module Kinks
 
-# Write your package code here.
+export isakink
+
+include("plotting_functions.jl")
 
 end
